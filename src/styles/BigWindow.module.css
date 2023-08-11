@@ -1,0 +1,8 @@
+.bigBoard{
+    width: 72px;
+    height: 72px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+}

@@ -1,0 +1,8 @@
+.board{
+    width: 36px;
+    height: 36px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+}

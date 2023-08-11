@@ -1,0 +1,9 @@
+.pixel{
+    width: 3px;
+    height: 3px;
+    background-color: aqua;
+    border: none;
+    margin: 0px;
+    padding: 0px;
+    border-radius: 20% 20% 20% 20%;
+}
