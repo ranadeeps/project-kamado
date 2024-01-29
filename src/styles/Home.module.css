@@ -13,15 +13,19 @@
   width: 450px;
   margin: auto;
   text-align: center;
+  margin-top: 2%;
+  margin-bottom: 2%;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
 }
 
 .heading {
-  color: whitesmoke;
+  color: black;
   display: inline;
   margin-right: 20px;
 }
 
 .body {
-  background-color: black;
-  height: 97vh;
+  height: 95vh;
 }
