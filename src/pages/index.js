@@ -2,7 +2,7 @@ import { Inter } from 'next/font/google'
 import styles from '@/styles/Home.module.css'
 import { useState } from 'react'
 import Canvas from '@/Components/Canvas'
-import { Button, Card, CardBody } from '@chakra-ui/react'
+import { Button, Card, CardBody, Divider } from '@chakra-ui/react'
 import { ChakraProvider } from '@chakra-ui/react'
 import { Heading } from '@chakra-ui/react'
 const inter = Inter({ subsets: ['latin'] })
